@@ -4,7 +4,7 @@
     using System.Runtime.InteropServices;
     using System.Windows.Forms;
 
-    public static  class Program
+    public class Program
     {
         //https://msdn.microsoft.com/en-us/library/windows/desktop/aa363858(v=vs.85).aspx
         [DllImport("kernel32")]
